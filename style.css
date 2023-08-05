@@ -2,3 +2,18 @@
     text-align: center;
 }
 
+.title{
+    font-family: "Abril Fatface","times new roman", "sans-serif";
+    font-size: 44px;
+}
+
+.page_intro{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 32px;
+}
+
+.recipes_list{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+    list-style: none;
+}
