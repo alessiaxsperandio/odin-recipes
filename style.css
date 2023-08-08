@@ -7,9 +7,10 @@
     font-size: 44px;
 }
 
-.page_intro{
+.page_intro,
+.recipe_text{
     font-family:'Times New Roman', Times, serif;
-    font-size: 32px;
+    font-size: 28px;
 }
 
 .recipes_list{
@@ -21,4 +22,8 @@
 .imagenes{
     height: 500px;
     width: auto;
+}
+
+.list{
+    list-style-type: none;
 }
